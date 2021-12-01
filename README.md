@@ -15,3 +15,5 @@
 Import FinalProject.zip file using Java IDE. Once imported open the project folder and run ImgConverter.java file from de the IDE.
 
 ## Option 2:
+
+Download and run the ImgConverter.jar file or export as .jar the project from any Java compiler/IDE. Java runtime environment might be need to run .jar extension files.
